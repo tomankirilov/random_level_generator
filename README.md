@@ -1,4 +1,5 @@
-# random_level_generator
-a random level generator for the godot game engine written in GDscript
+# This is a simple script for generating random levels in godot based on tiles.
 
 ![alt text](https://github.com/tomankirilov/random_level_generator/blob/master/rlg.jpeg)
+example image generated with the script
+
